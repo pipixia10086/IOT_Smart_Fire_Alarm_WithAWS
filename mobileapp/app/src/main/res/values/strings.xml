@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">client</string>
+    <string name="botton_main1">Register</string>
+    <string name="botton_back_register">back</string>
+    <string name="botton_main_login">Login</string>
+    <string name="botton_register_register">Register</string>
+    <string name="botton_login_login">Login</string>
+    <string name="botton_login_back">back</string>
+    <string name="text_main_username">username</string>
+    <string name="text_main_password">password</string>
+    <string name="text_hint_username">Please enter username</string>
+    <string name="text_hint_password">Please enter password</string>
+    <string name="text_register_device_number">device number</string>
+    <string name="hint_device">Please enter device number</string>
+    <string name="todo">TODO</string>
+    <string name="warning_message">warning information:</string>
+    <string name="waning_msg">Warning: Fire alarm</string>
+    <string name="scan">to scan</string>
+    <string name="alarm">fire information</string>
+    <string name="close">close the alarm</string>
+    <string name="no_fire">NO fire!!!</string>
+    <string name="add_device">To add a new device</string>
+    <string name="turn_off">Turn off the alarm</string>
+    <string name="location">scan to get device ID</string>
+    <string name="location1">Enter the location of the device</string>
+    <string name="submit">Submit</string>
+    <string name="low">Low Battery!!!</string>
+</resources>
